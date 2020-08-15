@@ -30,8 +30,10 @@ h1 {
 
 p {
   font-size: 18px;
+
   position: absolute;
   bottom: 10px;
+  top: 30px;
 }
 
 span {
@@ -170,7 +172,6 @@ Section {
   .col-md-11,
   .col-md-12 {
     float: left;
-    border: 1px solid green;
   }
   .col-md-1 {
     width: 8.33%;
